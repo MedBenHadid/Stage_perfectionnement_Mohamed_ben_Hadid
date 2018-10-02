@@ -1,0 +1,33 @@
+.navbar-brand { position: relative; z-index: 2; }
+
+.navbar-nav.navbar-right .btn { position: relative; z-index: 2; padding: 4px 30px; margin: 10px auto; transition: transform 0.3s; background-color: #2E64FE;color: white; }
+
+.navbar .navbar-collapse { position: relative; overflow: hidden !important; }
+.navbar .navbar-collapse .navbar-right > li:last-child { padding-left: 230px; }
+
+.navbar .nav-collapse { position: absolute; z-index: 1; top: 0; left: 0; right: 0; bottom: 0; margin: 0; padding-right: 120px; padding-left: 80px; width: 100%; }
+
+.navbar .nav-collapse .navbar-form { border-width: 0; box-shadow: none; }
+.nav-collapse>li { float: left; }
+
+.btn.btn-circle { border-radius: 70px; }
+
+.titre{
+  font-family: American Typewriter, serif;
+  font-size: 250%;
+   color: #2E64FE;
+font-stretch: expanded;
+}
+.form
+{padding-top:50px;
+
+}
+.body{
+  background-color: #FFFFFF;
+}
+
+.nom{
+  font-family: Georgia, serif;
+  font-size: 100%;
+
+}
